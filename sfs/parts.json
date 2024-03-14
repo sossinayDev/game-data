@@ -1,0 +1,8 @@
+[
+  {"name": "Merlin engine", "data": {
+    "type": "engine",
+    "thrust": 10000,
+    "mass": 1000,
+    "fuel flow": 1
+  }}
+]

@@ -7,5 +7,28 @@
       "fuel flow": 1
     },
     "location": "merlin_engine"
+  },
+  {"name": "Liquid fuel tank", 
+    "data": {
+      "type": "tank",
+      "fuell cap": 1000,
+      "mass": 500
+    },
+    "location": "basic_fueltank"
+  },
+  {"name": "Parachute 1", 
+    "data": {
+      "type": "aerodynamic",
+      "drag": 10,
+      "mass": 80
+    },
+    "location": "parachute_1"
+  },
+  {"name": "Crew Capsule", 
+    "data": {
+      "type": "control",
+      "mass": 1500
+    },
+    "location": "capsule_1"
   }
 ]

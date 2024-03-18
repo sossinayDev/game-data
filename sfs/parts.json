@@ -24,6 +24,30 @@
     },
     "location": "parachute_1"
   },
+  {"name": "Nose cone 1", 
+    "data": {
+      "type": "aerodynamic",
+      "drag": 10,
+      "mass": 150
+    },
+    "location": "nose_cone_1"
+  },
+  {"name": "Nose cone 2", 
+    "data": {
+      "type": "aerodynamic",
+      "drag": 15,
+      "mass": 150
+    },
+    "location": "nose_cone_2"
+  },
+  {"name": "Nose cone 3", 
+    "data": {
+      "type": "aerodynamic",
+      "drag": 10,
+      "mass": 160
+    },
+    "location": "nose_cone_3"
+  },
   {"name": "Crew Capsule", 
     "data": {
       "type": "control",

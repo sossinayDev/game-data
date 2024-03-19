@@ -1,6 +1,6 @@
 [
-  "control",
   "engine",
-  "aerodynamic",
-  "tank"
+  "control",
+  "tank",
+  "aerodynamic"
 ]

@@ -7,7 +7,8 @@
       "fuel flow": 1
     },
     "location": "merlin_engine",
-    "offset": [0,2]
+    "offset": [0,2],
+    "layer": "normal"
   },
   {"name": "Liquid fuel tank", 
     "data": {
@@ -16,7 +17,8 @@
       "mass": 500
     },
     "location": "basic_fueltank",
-    "offset": [0,0]
+    "offset": [0,0],
+    "layer": "normal"
   },
   {"name": "Parachute 1", 
     "data": {
@@ -25,7 +27,8 @@
       "mass": 80
     },
     "location": "parachute_1",
-    "offset": [0,0]
+    "offset": [0,0],
+    "layer": "overlay1"
   },
   {"name": "Nose cone 1", 
     "data": {
@@ -34,7 +37,8 @@
       "mass": 150
     },
     "location": "nose_cone_1",
-    "offset": [0,0]
+    "offset": [0,0],
+    "layer": "normal"
   },
   {"name": "Nose cone 2", 
     "data": {
@@ -43,7 +47,8 @@
       "mass": 150
     },
     "location": "nose_cone_2",
-    "offset": [0,0]
+    "offset": [0,0],
+    "layer": "normal"
   },
   {"name": "Nose cone 3", 
     "data": {
@@ -52,14 +57,16 @@
       "mass": 160
     },
     "location": "nose_cone_3",
-    "offset": [0,0]
+    "offset": [0,0],
+    "layer": "normal"
   },
-  {"name": "Crew Capsule", 
+  {"name": "Crew Capsule 1", 
     "data": {
       "type": "control",
       "mass": 1500
     },
     "location": "capsule_1",
-    "offset": [0,-2.5]
+    "offset": [0,-2.5],
+    "layer": "normal"
   }
 ]

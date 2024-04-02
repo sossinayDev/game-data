@@ -27,7 +27,7 @@
       "mass": 80
     },
     "location": "parachute_1",
-    "offset": [0,5],
+    "offset": [0,3],
     "layer": "overlay1"
   },
   {"name": "Nose cone 1", 

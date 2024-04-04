@@ -1,4 +1,13 @@
 {
   "version": 0.01,
-  "version_name": "Spacebuilding Agency 0.01"
+  "version_name": "Spacebuilding Agency 0.01",
+  "paths":
+  [
+    "ui/load.svg",
+    "ui/save.svg"
+  ]
+  "special_paths":
+  {
+    "parts.json": "parts/parts.json"
+  }
 }

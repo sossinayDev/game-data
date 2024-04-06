@@ -1,7 +1,8 @@
 {
   "name": "TT-1.3 Spyro",
   "description": "The Thrustthings 1.3 Spyro has an incredibly low amount of thrust. Thrust me (<- HAHA FUNNY JOKE RIGHT THERE)",
-  "mass": 1000
+  "mass": 1000,
+  "cost": 1750,
   "particles": [
     "f1",
     "sm1"

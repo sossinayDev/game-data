@@ -3,6 +3,7 @@
   "description": "The CMD-1 is a really outdated command capsule. It was one of the options that were considered to be used on the first mission to Mwezi but it didn't make it through qualification. The reason was that the pilots where too big."
   "mass": 500
   "particles": [],
+  "drag": 15
 
   "type": "command"
   "data":{
@@ -13,5 +14,7 @@
     "g": 30,
     "p": 50,
     "t": 1000
-  }
+  },
+
+  "textureOffsets": [0,-2.5]
 }

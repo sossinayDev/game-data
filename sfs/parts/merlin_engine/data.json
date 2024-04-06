@@ -6,6 +6,7 @@
     "f1",
     "sm1"
   ],
+  "drag": 50
 
   "type": "engine"
   "data":{
@@ -18,5 +19,7 @@
     "g": 75,
     "p": 500,
     "t": 3000
-  }
+  },
+  
+  "textureOffsets": [0,2]
 }

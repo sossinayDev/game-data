@@ -1,0 +1,19 @@
+{
+  "name": "WMBN & CO. - Cone 2"
+  "description": "Made to make side boosters or side somethings aerodynamic. But it looks better. Therefore it's more expensive..."
+  "mass": 175,
+  "cost": 250
+  "particles": [],
+  "drag": 3,
+
+  "type": "aerodynamic"
+  "data":{},
+
+  "limits":{
+    "g": 100,
+    "p": 400,
+    "t": 1500
+  },
+  
+  "textureOffsets": [0,2]
+}

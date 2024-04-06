@@ -1,0 +1,16 @@
+{
+  "name": "FT-1 Rocket fuel tank",
+  "mass": 1000
+  "particles": [],
+
+  "type": "fuel"
+  "data":{
+    "FU": 10000
+  },
+
+  "limits":{
+    "g": 75,
+    "p": 100,
+    "t": 3000
+  }
+}

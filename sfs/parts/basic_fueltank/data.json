@@ -3,7 +3,7 @@
   "description": "Used on the first mission to space. On that mission it has definitely proven that it's a piece of crap.",
   "mass": 200
   "particles": [],
-  "drag": 50
+  "drag": 50,
 
   "type": "fuel"
   "data":{

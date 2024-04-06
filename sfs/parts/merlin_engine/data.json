@@ -1,0 +1,22 @@
+{
+  "name": "TT-1.3 Spyro",
+  "description": "The Thrustthings 1.3 Spyro has an incredibly low amount of thrust. Thrust me (<- HAHA FUNNY JOKE RIGHT THERE)",
+  "mass": 1000
+  "particles": [
+    "f1",
+    "sm1"
+  ],
+
+  "type": "engine"
+  "data":{
+    "trst": 3000,
+    "consumption": 50,
+    "waterproof": 0
+  },
+
+  "limits":{
+    "g": 75,
+    "p": 500,
+    "t": 3000
+  }
+}

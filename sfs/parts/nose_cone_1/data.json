@@ -3,6 +3,7 @@
   "description": "The WMBN & CO. Cone 1 is an aerodynamic nose cone that you can actually use to make your craft more aerodynamic.",
   "mass": 150
   "particles": [],
+  "drag": 5,
 
   "type": "aerodynamic"
   "data":{
@@ -11,6 +12,8 @@
   "limits":{
     "g": 100,
     "p": 400,
-    "t": 250
-  }
+    "t": 500
+  },
+
+  "textureOffsets": [0,0]
 }

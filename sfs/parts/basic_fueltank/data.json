@@ -1,6 +1,7 @@
 {
   "name": "FT-1 Rocket fuel tank",
-  "mass": 1000
+  "description": "Used on the first mission to space. On that mission it has definitely proven that it's a piece of crap.",
+  "mass": 200
   "particles": [],
 
   "type": "fuel"
@@ -11,6 +12,6 @@
   "limits":{
     "g": 75,
     "p": 100,
-    "t": 3000
+    "t": 1250
   }
 }

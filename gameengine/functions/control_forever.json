@@ -1,0 +1,14 @@
+"{ID}": {
+    "opcode": "control_forever",
+    "next": {AFTER},
+    "parent": {BEFORE},
+    "inputs": {
+        "SUBSTACK": [
+            2,
+            {A1}
+        ]
+    },
+    "fields": {},
+    "shadow": false,
+    "topLevel": false
+},

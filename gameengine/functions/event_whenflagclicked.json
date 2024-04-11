@@ -1,7 +1,7 @@
 "{ID}": {
     "opcode": "event_whenflagclicked",
-    "next": "{AFTER}",
-    "parent": "{BEFORE}",
+    "next": {AFTER},
+    "parent": {BEFORE},
     "inputs": {},
     "fields": {},
     "shadow": false,

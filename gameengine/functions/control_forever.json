@@ -5,7 +5,7 @@
     "inputs": {
         "SUBSTACK": [
             2,
-            {A1}
+            {LOOPSTARTER}
         ]
     },
     "fields": {},

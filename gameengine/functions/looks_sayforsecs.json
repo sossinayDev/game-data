@@ -1,0 +1,24 @@
+{ID}: {
+    "opcode": "looks_sayforsecs",
+    "next": {NEXT},
+    "parent": {BEFORE},
+    "inputs": {
+        "MESSAGE": [
+            1,
+            [
+                10,
+                {TEXT}
+            ]
+        ],
+        "SECS": [
+            1,
+            [
+                4,
+                {SECONDS}
+            ]
+        ]
+    },
+    "fields": {},
+    "shadow": false,
+    "topLevel": false
+}

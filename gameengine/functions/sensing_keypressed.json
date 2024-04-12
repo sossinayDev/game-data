@@ -1,0 +1,28 @@
+{ID}: {
+    "opcode": "sensing_keypressed",
+    "next": null,
+    "parent": {BEFORE},
+    "inputs": {
+        "KEY_OPTION": [
+            1,
+            {ID2}
+        ]
+    },
+    "fields": {},
+    "shadow": false,
+    "topLevel": false
+},
+{ID2}: {
+    "opcode": "sensing_keyoptions",
+    "next": null,
+    "parent": {ID},
+    "inputs": {},
+    "fields": {
+        "KEY_OPTION": [
+            {A1},
+            null
+        ]
+    },
+    "shadow": true,
+    "topLevel": false
+}

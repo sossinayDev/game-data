@@ -1,0 +1,18 @@
+{ID}: {
+    "opcode": "operator_and",
+    "next": {NEXT},
+    "parent": {BEFORE},
+    "inputs": {
+        "OPERAND1": [
+            2,
+            {A1}
+        ],
+        "OPERAND2": [
+            2,
+            {A2}
+        ]
+    },
+    "fields": {},
+    "shadow": false,
+    "topLevel": false
+}

@@ -1,0 +1,8 @@
+[
+  "control_forever",
+  "control_if",
+  "event_whenflagclicked",
+  "looks_sayforsecs",
+  "operator_and",
+  "sensing_keypressed"
+]

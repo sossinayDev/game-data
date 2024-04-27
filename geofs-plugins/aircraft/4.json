@@ -2,6 +2,6 @@
   "name": "boeing737",
   "overspeed": 453,
   "bank_angle": 30,
-  "too_low_gear": 800,
+  "too_low": 800,
   "low_airspeed": 180
 }

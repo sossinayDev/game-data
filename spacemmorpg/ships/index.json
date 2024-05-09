@@ -1,0 +1,35 @@
+"Raphsod":[
+  {
+    "name": "Wyvern",
+    "type": "Light battleship",
+    "stats": {
+      "acceleration": 50
+      "top_speed": 450,
+      "hyperspeed": 4,
+      "cargo_hold": 3,
+      "battery": 500,
+      "fuel": 1500
+    },
+    "hp":{
+      "front": {
+        "shield": 50,
+        "armor": 20,
+        "structure": 15
+      },
+      "back": {
+        "shield": 150,
+        "armor": 45,
+        "structure": 35
+      },
+      "sides": {
+        "shield": 250,
+        "armor": 100,
+        "structure": 50
+      }
+    },
+    "market": {
+      "base_price": 0,
+      "max_price": 0
+    }
+  }
+]

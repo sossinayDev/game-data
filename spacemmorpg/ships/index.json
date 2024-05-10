@@ -1,4 +1,4 @@
-"Raphsod":[
+"Raphsod": [
   {
     "name": "Wyvern",
     "type": "Light battleship",
@@ -30,6 +30,41 @@
     "market": {
       "base_price": 0,
       "max_price": 0
+    }
+  }
+]
+"StarField & company": [
+  {
+    "name": "Constellation",
+    "type": "Frighter",
+    "stats": {
+      "acceleration": 15
+      "top_speed": 250,
+      "hyperspeed": 3,
+      "cargo_hold": 1000,
+      "battery": 2500,
+      "fuel": 5000
+    },
+    "hp":{
+      "front": {
+        "shield": 250,
+        "armor": 100,
+        "structure": 200
+      },
+      "back": {
+        "shield": 250,
+        "armor": 150,
+        "structure": 200
+      },
+      "sides": {
+        "shield": 250,
+        "armor": 150,
+        "structure": 200
+      }
+    },
+    "market": {
+      "base_price": 600000,
+      "max_price": 1000000
     }
   }
 ]
